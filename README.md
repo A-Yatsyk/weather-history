@@ -8,7 +8,7 @@ You need installed Node.js on your system, and android or ios simulators. In pro
 
 **Run command:** react-native run-ios **OR** react-native run-android
 
-### Run Aplication in xCode:
+### Run Aplication in Xcode:
 
 Open folder ios in project and run WeatherHistory.xcodeproj
 You can now press the Build and run button (⌘R) or select Run from the Product menu.
