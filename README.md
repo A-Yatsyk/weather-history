@@ -4,13 +4,9 @@
 
 You need installed Node.js on your system, and android or ios simulators. In project directory:
 
-**NOTE:** yarn install
+**Run command:** yarn install
 
-**NOTE:** react-native run-ios
-
-### OR
-
-**NOTE:** react-native run-android
+**Run command:** react-native run-ios **OR** react-native run-android
 
 ### Run Aplication in xCode:
 
